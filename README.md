@@ -1,21 +1,23 @@
 # Olá! Eu sou o Brunno 👋
 
-## 🧪 QA Engineer em formação
+## 🧪 QA Analyst | Quality Assurance
 
-Profissional em transição para Quality Assurance, com bagagem em gestão de operações e garantia de qualidade de processos. Minha experiência anterior me deu uma visão analítica voltada para resolução de problemas, atenção ao detalhe e foco em entregas de qualidade — competências que se conectam diretamente com o papel de QA Engineer.
+Profissional em transição para Quality Assurance, com bagagem em gestão de operações e garantia de qualidade de processos. Minha experiência anterior me deu uma visão analítica voltada para resolução de problemas, atenção ao detalhe e foco em entregas de qualidade — competências que se conectam diretamente com o papel de QA.
 
-Atualmente me especializando em testes de software através do bootcamp da **TripleTen**, onde desenvolvo competências práticas em testes de API, automação e metodologias ágeis.
+Certificado pela **TripleTen** como Analista de QA (2026), com formação prática em automação de testes, testes de API e testes manuais, utilizando Python, Selenium e Postman como principais ferramentas.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 **Linguagens**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Testes**
+**Testes e Automação**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Testes de API](https://img.shields.io/badge/Testes_de_API-0A66C2?style=flat&logo=postman&logoColor=white)
 
 **Gestão e Metodologias**
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)

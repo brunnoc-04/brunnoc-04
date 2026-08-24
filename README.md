@@ -15,7 +15,6 @@ Atualmente me especializando em testes de software através do bootcamp da **Tri
 
 **Testes**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 **Gestão e Metodologias**
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
@@ -31,6 +30,6 @@ Atualmente me especializando em testes de software através do bootcamp da **Tri
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![[LinkedIn](https://www.linkedin.com/in/brunnocesar04/)](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/brunnoc-04)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:obrunnocesar@gmail.com)

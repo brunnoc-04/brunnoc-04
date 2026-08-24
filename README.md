@@ -15,6 +15,7 @@ Atualmente me especializando em testes de software através do bootcamp da **Tri
 
 **Testes**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Testes de API](https://img.shields.io/badge/Testes_de_API-0A66C2?style=flat&logo=postman&logoColor=white)
 
 **Gestão e Metodologias**
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)

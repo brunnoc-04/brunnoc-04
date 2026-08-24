@@ -30,6 +30,6 @@ Atualmente me especializando em testes de software através do bootcamp da **Tri
 
 ## 🔗 Conecte-se comigo
 
-[![[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnocesar04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnocesar04/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/brunnoc-04)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:obrunnocesar@gmail.com)

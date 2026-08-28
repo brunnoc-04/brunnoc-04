@@ -1,38 +1,46 @@
-# Olá! Eu sou o Brunno 👋
+# Olá, eu sou o Brunno Cesar! 👋
 
-## 🧪 QA Analyst | Quality Assurance
+### Analista de QA (Quality Assurance) | Automação, Processos & Estratégia
 
-Profissional em transição para Quality Assurance, com bagagem em gestão de operações e garantia de qualidade de processos. Minha experiência anterior me deu uma visão analítica voltada para resolução de problemas, atenção ao detalhe e foco em entregas de qualidade — competências que se conectam diretamente com o papel de QA.
-
-Certificado pela **TripleTen** como Analista de QA (2026), com formação prática em automação de testes, testes de API e testes manuais, utilizando Python, Selenium e Postman como principais ferramentas.
+Sou um profissional de tecnologia com sólida base em **Gestão de Operações e Auditoria de Dados**. Minha trajetória é marcada pela capacidade de transformar processos complexos em fluxos eficientes e livres de falhas. Como Analista de QA, utilizo esse "mindset" analítico para antecipar riscos, otimizar ciclos de desenvolvimento e garantir que cada entrega de software gere valor real ao negócio e ao usuário final.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-**Linguagens**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Testes e Automação**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Gestão e Metodologias**
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-100000?style=flat&logo=scrumalliance&logoColor=white)
+### 🚀 Do Business ao Código: Minha Abordagem em QA
+Minha experiência anterior como gestor me conferiu uma visão sistêmica única. Entendo que um bug não é apenas um erro no código, mas um custo operacional e um risco à reputação da marca. 
+- **Foco em Resultados:** Na minha última atuação, liderei processos que resultaram em uma **redução de 90% no volume de chamados de suporte**, competência que hoje aplico na criação de suítes de testes robustas e preventivas.
+- **Rigor Técnico:** Especialista em identificar gargalos e inconsistências através de auditoria de dados e testes rigorosos de ponta a ponta.
 
 ---
 
-## 📌 Projetos em Destaque
+### 🛠️ Tech Stack & Expertise
 
-👉 Em breve com os projetos práticos do bootcamp da TripleTen!
+**Linguagens e Automação**
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> **Python** | **Selenium WebDriver** | **Pytest**
+
+**Testes e Validação**
+- **API Testing:** Postman | JSON | Validação de Endpoints REST
+- **Web & Mobile:** Testes de Regressão | Testes Funcionais | Chrome DevTools | Charles Proxy | Android Studio (ADB)
+
+**Dados e Infraestrutura**
+- **Database:** SQL (PostgreSQL) | Auditoria de Dados
+- **Infra:** Linux Terminal (CLI) | Git & GitHub
+
+**Gestão Ágil**
+- Jira | Notion | Trello | Metodologias Ágeis (Scrum/Kanban) | Figma (UI Inspection)
 
 ---
 
-## 🔗 Conecte-se comigo
+### 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnocesar04/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/brunnoc-04)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:obrunnocesar@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/brunnocesar04/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/brunnoc-04" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+*"Qualidade é a base da confiança. Eu construo essa base."*

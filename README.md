@@ -16,7 +16,7 @@ Minha experiência anterior como gestor me conferiu uma visão sistêmica única
 ### 🛠️ Tech Stack & Expertise
 
 **Linguagens e Automação**
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> **Python** | **Selenium WebDriver** | **Pytest**
+-  **Python** | **Selenium WebDriver** | **Pytest**
 
 **Testes e Validação**
 - **API Testing:** Postman | JSON | Validação de Endpoints REST

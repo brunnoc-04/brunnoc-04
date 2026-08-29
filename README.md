@@ -1,4 +1,4 @@
-# Olá, eu sou o Brunno Cesar! 👋
+# Olá, eu sou o Brunno! 👋
 
 ### Analista de QA (Quality Assurance) | Automação, Processos & Estratégia
 
@@ -6,7 +6,7 @@ Sou um profissional de tecnologia com sólida base em **Gestão de Operações e
 
 ---
 
-### 🚀 Do Business ao Código: Minha Abordagem em QA
+### Minha Abordagem em QA
 Minha experiência anterior como gestor me conferiu uma visão sistêmica única. Entendo que um bug não é apenas um erro no código, mas um custo operacional e um risco à reputação da marca. 
 - **Foco em Resultados:** Na minha última atuação, liderei processos que resultaram em uma **redução de 90% no volume de chamados de suporte**, competência que hoje aplico na criação de suítes de testes robustas e preventivas.
 - **Rigor Técnico:** Especialista em identificar gargalos e inconsistências através de auditoria de dados e testes rigorosos de ponta a ponta.
